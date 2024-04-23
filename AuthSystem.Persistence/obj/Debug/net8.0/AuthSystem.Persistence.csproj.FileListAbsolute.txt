@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\bin\Debug\net8.0\AuthSystem.Persistence.deps.json
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\bin\Debug\net8.0\AuthSystem.Persistence.runtimeconfig.json
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\bin\Debug\net8.0\AuthSystem.Persistence.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\bin\Debug\net8.0\AuthSystem.Persistence.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\bin\Debug\net8.0\AuthSystem.Domain.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\bin\Debug\net8.0\AuthSystem.Domain.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSyst.2CFC575C.Up2Date
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\refint\AuthSystem.Persistence.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\AuthSystem.Persistence.genruntimeconfig.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Persistence\obj\Debug\net8.0\ref\AuthSystem.Persistence.dll

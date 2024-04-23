@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\bin\Debug\net8.0\AuthSystem.Infrastructure.deps.json
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\bin\Debug\net8.0\AuthSystem.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\bin\Debug\net8.0\AuthSystem.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\AuthSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\AuthSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\AuthSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\AuthSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\AuthSystem.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\refint\AuthSystem.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\AuthSystem.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Infrastructure\obj\Debug\net8.0\ref\AuthSystem.Infrastructure.dll

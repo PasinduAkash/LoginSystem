@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\bin\Debug\net8.0\AuthSystem.Domain.deps.json
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\bin\Debug\net8.0\AuthSystem.Domain.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\bin\Debug\net8.0\AuthSystem.Domain.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\AuthSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\AuthSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\AuthSystem.Domain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\AuthSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\AuthSystem.Domain.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\refint\AuthSystem.Domain.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\AuthSystem.Domain.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Domain\obj\Debug\net8.0\ref\AuthSystem.Domain.dll

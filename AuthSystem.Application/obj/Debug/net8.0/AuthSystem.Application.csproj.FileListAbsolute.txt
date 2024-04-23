@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Application.deps.json
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Application.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Application.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Domain.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Domain.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSyst.810430FD.Up2Date
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\refint\AuthSystem.Application.dll
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.pdb
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\AuthSystem.Application\obj\Debug\net8.0\ref\AuthSystem.Application.dll

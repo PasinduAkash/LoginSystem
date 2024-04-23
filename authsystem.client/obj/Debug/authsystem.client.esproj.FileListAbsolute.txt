@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Projects\ASP\AuthSystem\authsystem.client\obj\Debug\authsystem.client.esproj.CoreCompileInputs.cache
